@@ -28,7 +28,7 @@ impl Layer {
 #[derive(Debug)]
 struct Neuron {
     bias: f32,
-    weights: Vec<f32>, //Neurons conatins bias and weights
+    weights: Vec<f32>, //Neurons contains bias and weights
 }
 
 impl Neuron {
