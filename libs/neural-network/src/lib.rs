@@ -112,8 +112,7 @@ mod tests {
         (-0.3 * 0.5) + (0.8 * 1.0) + 0.5,
     );
 
-        // We could've written `1.15` right away, but showing the entire
-        // formula makes our intentions clearer
+
     }
 }
 
