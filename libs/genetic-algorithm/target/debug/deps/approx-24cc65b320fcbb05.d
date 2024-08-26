@@ -1,0 +1,9 @@
+C:\Users\Stalino A J\RustroverProjects\bird-game_ai\libs\genetic-algorithm\target\debug\deps\libapprox-24cc65b320fcbb05.rmeta: C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\Stalino A J\RustroverProjects\bird-game_ai\libs\genetic-algorithm\target\debug\deps\approx-24cc65b320fcbb05.d: C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs
+
+C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\lib.rs:
+C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\abs_diff_eq.rs:
+C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\relative_eq.rs:
+C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\ulps_eq.rs:
+C:\Users\Stalino\ A\ J\.cargo\registry\src\index.crates.io-6f17d22bba15001f\approx-0.4.0\src\macros.rs:
